@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 ## 🚀 Live Demo
 
-🌐 https://YOUR-PORTFOLIO-LINK.netlify.app
+🌐 https://portfolio-alamdar.netlify.app/
 
 ## ✨ Features
 
